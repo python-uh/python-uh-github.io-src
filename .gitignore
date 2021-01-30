@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+.idea/
+*.iml
+_site/
+.sass-cache/
+.DS_Store
